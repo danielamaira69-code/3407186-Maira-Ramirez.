@@ -1,28 +1,28 @@
 =========================================
-    PRODUCTOS ORGANICOS Y NATURALES - FICHA 3407186 #001
+    Productos Organicos - 3407186
 =========================================
 
 INFORMACIÓN GENERAL
 --------------------
-Nombre:          Cosmi puros
+Nombre:          Cosmi Puros
 Código:          01
-Categoría:       Cosmetica Natural
+Categoría:       Cosmeticos
 Estado:          Activo
 
 DETALLES
 --------------------
-Capacidad:       45 personas
+Capacidad:       300 personas
 Duración (min):  50
-Precio:          200.000
-Con descuento:   160.000
+Precio:          180000
+Con descuento:   160000
 Disponible:      true
 Accesible:       true
 
 RESUMEN DEL DOMINIO
 --------------------
-Dominio:         Venta de Productos Organicos y naturales
-Entidad:         Producto
-Total registros: 100
+Dominio:         Cosmi Puros
+Entidad:         Cosmeticos Naturales
+Total registros: 300
 
 =========================================
   Ficha generada con JavaScript ES2023

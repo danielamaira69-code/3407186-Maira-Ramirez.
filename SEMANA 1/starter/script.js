@@ -30,7 +30,7 @@
 // TODO: Cambia el título con el nombre de tu dominio y un identificador
 // Ejemplo (Planetario): '    PLANETARIO MUNICIPAL - FICHA #001    '
 console.log('=========================================');
-console.log('[productos organicos] - 3407186');
+console.log('[Productos Organicos] - 3407186');
 console.log('=========================================');
 console.log('');
 
@@ -48,7 +48,7 @@ console.log('--------------------');
 //   Acuario     → nombre de la especie:    'Tiburón Ballena'
 //   Museo       → título de la obra:       'La Gioconda (réplica)'
 //   Zoológico   → nombre del animal:       'León Africano'
-console.log('Nombre:          [Cosmi puros]');
+console.log('Nombre:          [Cosmi Puros]');
 
 // TODO: Reemplaza con un código o identificador único (string o number)
 // Ejemplos: 'PLN-042', 'ACU-117', 'MUS-007', 452
@@ -74,7 +74,7 @@ console.log('--------------------');
 
 // TODO: Reemplaza con un dato numérico relevante para tu dominio (number — sin comillas)
 // Ejemplos: precio → 15000, stock → 48, páginas → 320, capacidad → 30
-console.log('Valor principal:    [200.000]');
+console.log('Valor principal:    [180.000]');
 
 // TODO: Reemplaza el 0 por una expresión aritmética que se calcule automáticamente
 // No uses variables — escribe directamente el cálculo con números literales
@@ -82,14 +82,14 @@ console.log('Valor principal:    [200.000]');
 //   Precio con 20% descuento:  15000 * 0.8
 //   Total (cantidad × precio): 3 * 15000
 //   Capacidad restante:        30 - 12
-console.log('Valor calculado:    ', 160.000); // TODO: reemplaza 0 con tu cálculo
+console.log('Valor calculado:    ', 160000); // TODO: reemplaza 0 con tu cálculo
 
 // TODO: Valor boolean que representa un estado de la entidad (true o false — sin comillas)
 // Ejemplos: disponible → true, enStock → false, esNuevo → true
-console.log('Estado booleano 1:  [true]');
+console.log('Disponibles:  [true]');
 
 // TODO: Otro valor boolean diferente al anterior (true o false — sin comillas)
-console.log('Estado booleano 2:  [true]');
+console.log('Accesibles:  [true]');
 
 console.log('');
 
@@ -103,15 +103,15 @@ console.log('--------------------');
 
 // TODO: Escribe el nombre de tu dominio asignado (string)
 // Ejemplos: 'Planetario', 'Acuario', 'Museo', 'Zoológico'
-console.log('Dominio:          [Venta de productos organicos y naturales]');
+console.log('Dominio:          [Cosmi Puros]');
 
 // TODO: ¿Cómo se llama la entidad principal de tu dominio? (string)
 // Ejemplos: 'exhibición', 'especie', 'obra', 'animal', 'evento'
-console.log('Entidad:          [Producto]');
+console.log('Entidad:          [Cosmeticos Naturales]');
 
 // TODO: ¿Cuántos registros tiene tu dominio en total? (number — sin comillas)
 // Puede ser un número inventado pero coherente con el dominio
-console.log('Total registros:  [100]');
+console.log('Total registros:  [300]');
 
 console.log('');
 
@@ -124,6 +124,6 @@ console.log('=========================================');
 
 // TODO: Escribe un mensaje de cierre relacionado con tu dominio (string)
 // Ejemplo (Planetario): '  ¡Explora el universo con JavaScript!'
-console.log('[Cuida tu piel con productos 100% organicos y naturales]');
+console.log('[Cuida tupiel con nuestros productos Naturales]');
 
 console.log('=========================================');
